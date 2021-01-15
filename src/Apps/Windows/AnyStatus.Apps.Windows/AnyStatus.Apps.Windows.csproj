@@ -53,6 +53,7 @@
     <ProjectReference Include="..\..\..\Plugins\AnyStatus.Plugins.Jenkins\AnyStatus.Plugins.Jenkins.csproj" />
     <ProjectReference Include="..\..\..\Plugins\AnyStatus.Plugins.Roslyn\AnyStatus.Plugins.Roslyn.csproj" />
     <ProjectReference Include="..\..\..\Plugins\AnyStatus.Plugins.NuGet\AnyStatus.Plugins.NuGet.csproj" />
+    <ProjectReference Include="..\..\..\Plugins\AnyStatus.Plugins.Octopus\AnyStatus.Plugins.Octopus.csproj" />
     <ProjectReference Include="..\..\..\Plugins\AnyStatus.Plugins.Docker\AnyStatus.Plugins.Docker.csproj" />
     <ProjectReference Include="..\..\..\Plugins\AnyStatus.Plugins.SystemInformation\AnyStatus.Plugins.SystemInformation.csproj" />
   </ItemGroup>
